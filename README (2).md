@@ -160,7 +160,11 @@ We created this model to measure the determination accuracy of the decision of i
 
 ### Objective: To leverage machine learning to predict the possibility of medical services to be deemed medically necessary or not based on the presence of certain conditions.
 
+<<<<<<< HEAD:README (2).md
 ### Conclusion: We found that majority of insurance denials, once appealed by an IMR, were overturned and therefore considered as converage that should be paid by an insurance company. This, in conclusion, eludes to large miscalculations the by health insurance industry across the State of Califoria. With a simple set of machine learning models (like the ones we have developed), companies can quickly and effectively reduce the number of coverage denials they will have issued destined to be overturned, thus saving them the significant cost of litigation and additional payments to urgentcare facilities. This, we believe, is a business strategy worth implementing immediately to save money on the bottom line and provide more coverage to its customers.
+=======
+### Conclusion: We found that majority of insurance denials, once appealed by an IMR, were overturned and therefore considered as converage that should be paid by an insurance company. This, in conclusion, eludes to large miscalculations by the health insurance industry across the State of Califoria. With a simple set of machine learning models (like the ones we have developed), companies can quickly and effectively reduce the number of coverage denials they will have issued destined to be overturned, thus saving them the significant costs of litigation and additional payments to urgentcare facilities. This, we believe, is a business strategy worth implementing immediately to save money on the bottom line and provide more coverage to its customers.
+>>>>>>> 017482bad6ce98a574ff75debb02d4802b2d3263:README.md
 
 ### Presentation:[Analysis Presentation](https://docs.google.com/presentation/d/1WFbteX6ApynYJe-QSTuQRjewO7j6qurs/edit?usp=sharing&ouid=100163998019227497445&rtpof=true&sd=true)
 
