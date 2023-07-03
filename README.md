@@ -60,22 +60,25 @@ from sklearn.metrics import balanced_accuracy_score, confusion_matrix, classific
 - Scale the Data 
 
 ### Testing a deep neural network 
-<img width="866" alt="image" src="https://github.com/baileykayla953/Machine-Learning-/assets/118647940/bd1e8e2e-69c4-434c-bf6f-c570f1d60316">
-<img width="540" alt="image" src="https://github.com/baileykayla953/Machine-Learning-/assets/118647940/181a38aa-a747-48bd-a96f-fd2ea2017e7c">
+<img width="627" alt="Screen Shot 2023-07-03 at 11 45 41 AM" src="https://github.com/Phil-Mart/healthcare-machine-learning-model/assets/120279988/c932f5c8-a6d7-4e50-ae2e-b9bfb747b574">
+<img width="461" alt="Screen Shot 2023-07-03 at 11 46 34 AM" src="https://github.com/Phil-Mart/healthcare-machine-learning-model/assets/120279988/ab81569c-8a46-4047-9518-86d80b6d4270">
+
+
 
 
 
 ### Testing Logistic Regression 
-<img width="584" alt="image" src="https://github.com/baileykayla953/Machine-Learning-/assets/118647940/0c36110a-7ae2-42e9-a5db-9c6836dbfa82">
-<img width="765" alt="image" src="https://github.com/baileykayla953/Machine-Learning-/assets/118647940/0c17851d-7039-43b7-b88a-3a4f0bfc7b52">
+<img width="389" alt="Screen Shot 2023-07-03 at 11 47 19 AM" src="https://github.com/Phil-Mart/healthcare-machine-learning-model/assets/120279988/4b55dcc0-cb3d-497b-a045-5498e3d3ab3c">
+<img width="390" alt="Screen Shot 2023-07-03 at 11 47 33 AM" src="https://github.com/Phil-Mart/healthcare-machine-learning-model/assets/120279988/1008dfd7-cf13-4082-b1ce-7a1a840e92a3">
+
 
 
 
 
 ### Testing Logistic Regression after Over Sampling the Data
-<img width="846" alt="image" src="https://github.com/baileykayla953/Machine-Learning-/assets/118647940/dfa21506-aed1-4f96-a182-ee269fdace30">
-<img width="748" alt="image" src="https://github.com/baileykayla953/Machine-Learning-/assets/118647940/83e78084-7b50-4e3f-be8f-9a9051924c1d">
-<img width="584" alt="image" src="https://github.com/baileykayla953/Machine-Learning-/assets/118647940/40840d89-318f-4822-9272-31b06c25a6b3">
+
+<img width="415" alt="Screen Shot 2023-07-03 at 12 11 10 PM" src="https://github.com/Phil-Mart/healthcare-machine-learning-model/assets/120279988/23a1fec3-ccfd-458e-91a2-9e31f1fdcfc1">
+<img width="368" alt="Screen Shot 2023-07-03 at 12 11 23 PM" src="https://github.com/Phil-Mart/healthcare-machine-learning-model/assets/120279988/1a7491cb-414c-49b4-ba71-3f3a4c70ac1e">
 
 
 
