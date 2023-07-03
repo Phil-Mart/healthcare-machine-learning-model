@@ -74,6 +74,8 @@ from sklearn.metrics import balanced_accuracy_score, confusion_matrix, classific
 
 ### Presentation:[Analysis Presentation](https://docs.google.com/presentation/d/1WFbteX6ApynYJe-QSTuQRjewO7j6qurs/edit?usp=sharing&ouid=100163998019227497445&rtpof=true&sd=true)
 
+### Visualizations:[Tableau Storyboard](https://public.tableau.com/views/IRMUrgentCareVisualAnalysis/VisualizationAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 Our orignal question for this dataset was asking "Why does it feel like Urgent Cares are popping up everywhere?" With this dataset, We can see Urgent Cares are more affordable than Hospitals. This data shows more cost effectiveness as we can see an overwhelming amount of data showing how often care is not considered a medical necessity and will require an additional payment. 
 Why are Urgent Cares Popping Up Everywhere? 
 [CNN Article](https://www.cnn.com/2023/01/28/business/urgent-care-centers-growth-health-care/index.html#:~:text=Urgent%20care%20has%20grown%20rapidly,increase%20from%202019%2C%20estimates%20IBISWorld.)
