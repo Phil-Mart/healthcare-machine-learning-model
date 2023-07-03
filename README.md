@@ -4,13 +4,15 @@
 Objective: To leverage machine learning to predict the possibility of medical services to be deemed medically necessary or not based on the presence of certain conditions.
 
 Dataset: [Kaggle](https://www.kaggle.com/datasets/prasad22/ca-independent-medical-review)
-![image](https://github.com/baileykayla953/Machine-Learning-/assets/118647940/67c6522b-045e-441c-bd37-61a28b9e6687)
+<img width="975" alt="Screen Shot 2023-07-03 at 11 41 31 AM" src="https://github.com/Phil-Mart/healthcare-machine-learning-model/assets/120279988/88ba071e-c83d-4656-91ee-34cce915a722">
+
 
 
 # Database Setup
 ## SQL and CSV Export 
-<img width="553" alt="image" src="https://github.com/baileykayla953/Machine-Learning-/assets/118647940/895e7094-4333-4ce7-8491-b6580ebea539">
-<img width="497" alt="image" src="https://github.com/baileykayla953/Machine-Learning-/assets/118647940/e81036b6-434b-492f-bea7-87926560239a">
+<img width="580" alt="Screen Shot 2023-07-03 at 11 42 53 AM" src="https://github.com/Phil-Mart/healthcare-machine-learning-model/assets/120279988/55f1ca95-c8b8-4886-8ac1-4f0f5a5e16cc">
+<img width="360" alt="Screen Shot 2023-07-03 at 11 43 11 AM" src="https://github.com/Phil-Mart/healthcare-machine-learning-model/assets/120279988/91f355df-b5a1-4c90-b11b-152d7efa95cd">
+
 
 # Machine Learning Models
 
