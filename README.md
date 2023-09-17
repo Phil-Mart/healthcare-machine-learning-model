@@ -91,6 +91,10 @@ Dhawn Alexander [github](https://github.com/DhawnAlexander)
 
 Jason Didier [github](https://github.com/CRC1990) 
 
+# Contact:
 
+# [Linkedin Profile](linkedin.com/in/phil-mart) 
+
+# Email: [Phillip Martinez](PhillipMartinez@my.unt.edu) 
 
 
